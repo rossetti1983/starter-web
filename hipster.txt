@@ -1,0 +1,7 @@
+2 Guidelines for using the Marks
+2.1 Trademark symbol on first mention
+The first prominent mention of a Mark should be immediately followed by a symbol for, as applicable, a registered trademark (®) or an unregistered trademark (™). For example: "Git™".
+
+This requirement is waived in all contexts where such marks are not required to protect the intellectual property rights associated with the Marks, such as email, online discussion, and academic papers. We encourage the use of the applicable symbols whenever possible, but recognize that many users will omit them in non-commercial and informal contexts.
+
+You can use "Git and the Git logo are either registered trademarks or trademarks of Software Freedom Conservancy, Inc., corporate home of the Git Project, in the United States and/or other countries." when you need to mention "Git" in e.g. list of trademarks held by other people.
